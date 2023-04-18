@@ -3,10 +3,11 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
 
-//Aaron Langille
+//Akhil
+
 namespace CornFlowerCollab
 {
-    //Akhil
+    
     public class Game1 : Game
     {
         private GraphicsDeviceManager _graphics;
